@@ -2,16 +2,17 @@
 
 This is the home of the [Global Typhoid Genomics Consortium](https://www.typhoidgenomics.org/) on github
 
-### Consortium goals
+#### Consortium goals are to:
 * Encourage prompt sharing of typhoid genome data for public health benefit
 * Facilitate the extraction and reporting of key data of public health relevance
 * Promote and facilitate the dissemination and use of information derived from typhoid genomic data to monitor antimicrobial resistance and post-vaccination impact
 
-The Consortium is open to anyone to join, see [here](https://www.typhoidgenomics.org/#h.ndso9a2oxt8u) for more info.
+
+For more info or to join the Consortium (membership is open to all) - see [here](https://www.typhoidgenomics.org/#h.ndso9a2oxt8u) for more info.
 
 ### Tools and resources
-* [Genotyphi scheme and typing tools](https://github.com/typhoidgenomics/genotyphi)
-* Consortium Metadata Template: [bit.ly/typhi](Meta(bit.ly/typhiMeta)
+* Genotyphi scheme and typing tools: [GitHub Repo - GenoTyphi](https://github.com/typhoidgenomics/genotyphi)
+* Consortium Metadata Template: [Google Sheet - bit.ly/typhiMeta](bit.ly/typhiMeta)
 
 
 ### Working Group 1: 21-years of Typhoid Genomics, Epidemiology and Descriptive Stats
