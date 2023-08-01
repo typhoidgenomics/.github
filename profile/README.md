@@ -13,7 +13,9 @@ For more info or to join the Consortium (membership is open to all) - see [here]
 ### Tools and resources
 * Genotyphi scheme and typing tools: [GitHub Repo - GenoTyphi](https://github.com/typhoidgenomics/genotyphi)
 * Consortium Metadata Template: [Google Sheet - bit.ly/typhiMeta](bit.ly/typhiMeta)
-
+* TyphiNET dashboard for interactive exploration of genotype and AMR prevalences, estimated from the consortium data:
+  * Dashboard: [TyphiNET](https://typhi.net)
+  * Code: [GitHub Repo - TyphiNET](https://github.com/typhoidgenomics/TyphiNET)
 
 ### Working Group 1: 21-years of Typhoid Genomics - Epidemiology and Descriptive Stats
 * Paper: [Global diversity and antimicrobial resistance of typhoid fever pathogens: insights from 13,000 Salmonella Typhi genomes](https://www.medrxiv.org/content/10.1101/2022.12.28.22283969v1)
@@ -26,6 +28,7 @@ For more info or to join the Consortium (membership is open to all) - see [here]
 ### Working Group 3: Typhi Mykrobe implementation
 * Typhi Mykrobe code: [GitHub Repo - GenoTyphi](https://github.com/typhoidgenomics/genotyphi)
 * Technical report: [GenoTyphi Implementation in Mykrobe](https://doi.org/10.5281/zenodo.7407984)
+
 
 ### Other resources
 * [Typhi Pathogenwatch](https://pathogen.watch/) (described in [this paper](https://www.nature.com/articles/s41467-021-23091-2)) - Analyse your own Typhi genomes, and interactively explore public genomes curated by the Consortium 
