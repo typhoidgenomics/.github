@@ -18,7 +18,7 @@ For more info or to join the Consortium (membership is open to all) - see [here]
   * Code: [GitHub Repo - TyphiNET](https://github.com/typhoidgenomics/TyphiNET)
 
 ### Working Group 1: 21-years of Typhoid Genomics - Epidemiology and Descriptive Stats
-* Paper: [Global diversity and antimicrobial resistance of typhoid fever pathogens: insights from 13,000 Salmonella Typhi genomes](https://www.medrxiv.org/content/10.1101/2022.12.28.22283969v1)
+* Paper: [Global diversity and antimicrobial resistance of typhoid fever pathogens: insights from 13,000 Salmonella Typhi genomes](https://doi.org/10.7554/eLife.85867)
 * Data, code & figures: [GitHub Repo - TyphoidGenomicsConsortiumWG1](https://github.com/typhoidgenomics/TyphoidGenomicsConsortiumWG1)
 * Assemblies (13,000 genomes): [Figshare - Fasta files](https://doi.org/10.26180/21431883)
 
