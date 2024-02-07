@@ -14,7 +14,7 @@ For more info or to join the Consortium (membership is open to all) - see [here]
 * Genotyphi scheme and typing tools: [GitHub Repo - GenoTyphi](https://github.com/typhoidgenomics/genotyphi)
 * Consortium Metadata Template: [Google Sheet - bit.ly/typhiMeta](bit.ly/typhiMeta)
 * TyphiNET dashboard for interactive exploration of genotype and AMR prevalences, estimated from the consortium data:
-  * Dashboard: [TyphiNET](https://typhi.net)
+  * Dashboard: [TyphiNET](https://www.typhi.net)
   * Code: [GitHub Repo - TyphiNET](https://github.com/typhoidgenomics/TyphiNET)
 
 ### Working Group 1: 21-years of Typhoid Genomics - Epidemiology and Descriptive Stats
